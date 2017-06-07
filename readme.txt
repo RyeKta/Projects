@@ -6,3 +6,4 @@ Trying to conflict the merge
 
 	New awesome feature is coming soon
 using pop to apply the stash
+(C)Krishna rai
